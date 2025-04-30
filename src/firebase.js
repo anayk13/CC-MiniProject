@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore, connectFirestoreEmulator } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDXVx9yoJ6JNu93mgZs3kKZeGnE7N9RLXM",
+    apiKey: "as",
     authDomain: "green-tech-blog-2024.firebaseapp.com",
     projectId: "green-tech-blog-2024",
     storageBucket: "green-tech-blog-2024.appspot.com",
